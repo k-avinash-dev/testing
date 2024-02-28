@@ -1,2 +1,2 @@
 <?php 
-echo 'Coming Soon';
+echo 'Coming Soon ';
